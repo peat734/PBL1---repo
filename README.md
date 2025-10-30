@@ -1,2 +1,3 @@
 # PBL1---repo
-Repozytorium na PBL1
+Sample file for commit testing
+
